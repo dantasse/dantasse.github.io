@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dantasse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.dantasse.com
+  * I am dantasse (https://keybase.io/dantasse) on keybase.
+  * I have a public key with fingerprint B2D6 7327 C623 5AC5 9C10  B7FE 1C06 6937 2E23 6EBD
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b2d67327c6235ac59c10b7fe1c0669372e236ebd",
+            "host": "keybase.io",
+            "key_id": "1c0669372e236ebd",
+            "kid": "010112487f6dbd3e24cfc19025c51576c88725b6fe319c8dd1ed82970917b2f988c90a",
+            "uid": "ad9555341f1fe545287dfca716453300",
+            "username": "dantasse"
+        },
+        "service": {
+            "hostname": "www.dantasse.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423497597,
+    "expire_in": 157680000,
+    "prev": "de387c05d518deb0d15a48f69b58c888b7f6e22208c968c98fb90fe32cadcb17",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMIcAnicbVJbSBVBGN5zOkUpwYkSiiBtI8k6HHZmd3Z2D0FUBmG9BJpi1ml3Zva4
+lrunPReTo1BBJgU9aGHgQ0USXbAeulFBVERiZjcNNUxffAili0RF0UOzh3prYBjm
+/7/vm///5n+ycI5QENhcO9j7gXWeDww8Ks8IlaNjrTnRdGmzGMuJ+1j+sGwnwbyk
+ZztpMSaakKpYhpioUEYGQToBkoktBoikqrqMIYOyykwqRsR6N+UzuIxppFjUdnmM
+X+I25dH/4PflExKQAICKhi2VmlRmUCEWAboEEUEAYZVoGobIVC0mA51olAJGNahj
+SQfYhJauaUSXDC6XycsZVEcIyQqwgMWQgqCGqUUMDFQFybIk+cAU8xyjkXE0NZy0
+kUoxsTUi8mjWJsy3wO/kL6KpqSn6DxUlbiPnJz037RJ3P8/Wp9PJmE9ONyfzaGbG
+/+rETduh3EpOyDIvZbuOGAMcSdK2LwwUKCs6RjqOiOxg0vZY3PYRvGNN4st/hmX9
+EpmsYSIhioBGmSlRgAxFs1TdRBr3RuOfoTIIocR9UPnWLFOXuFmQGJSYAIt+Zwcc
+V4wpvEwjwSVTdsIx0hmPt/34YV1ICBQI8+YG/WEQChaE/43I15H5wq2S60e+74S9
+L58/e1XlHBufR2r7Gn+8Dq9dApka3Dn5erF1Ln64PVD6vmfryI3Zmabay3eminHr
+qivvhkuOXppInh7eu7z+wGDZtV9rqvdUfaoLdG/4fbOhsuuEHR6ciBTO3G94U9oe
+j7ed2bR6oPPqxZ71QXPo6UlsH+vo3QVCYWGqYzrxs6PswrbxFmFlTW7yesPCwxWx
+grcnk20P+4rrbEve/vnB9Ggb9ob6dsvV5UWnlq7FmfM1y5CwemrZt2iobOje28kb
+RS82zg2NPdoxXJg53lL95FD2ecWqRSukj4vXnZ1YvyX3JRScz7qixerszO3xu2P9
+Nf3vim53RxMr/wBbQyaP
+=R3Kd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dantasse
+
+==================================================================
+
