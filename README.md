@@ -11,6 +11,5 @@ Well, here is my website. Some props:
 - Bootstrap http://twitter.github.com/bootstrap/
 - jQuery: http://jquery.com/
 - Backstretch: http://srobbin.com/jquery-plugins/backstretch/
-  
 - http://24ways.org/2012/how-to-make-your-site-look-half-decent/
 - http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/
