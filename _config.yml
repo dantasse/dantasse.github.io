@@ -10,4 +10,7 @@ maruku:
   use_divs:  false
   png_dir:   images/latex
   png_url:   /images/latex
-
+  
+# from https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
+url: https://www.dantasse.com   # with the https protocol
+enforce_ssl: www.dantasse.com   # without any protocol
