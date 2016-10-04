@@ -232,9 +232,8 @@ td { vertical-align: top; }
   margin-right: auto;
   background: #CCCCFF;
   background-color: rgba(245,245,245,0.95);
-  font-family: "Goudy Bookletter 1911", serif;
+  font-family: Helvetica, "Trebuchet MS", sans-serif;
   padding: 10px;
-  font-size:20px;
 }
 
 .maincenter ul {
@@ -247,17 +246,10 @@ td { vertical-align: top; }
   line-height: 1.4;
 }
 
-a {
-  color: #666;
-}
-a:visited {
-  color: #666;
-}
-
 .my_name {
   font-size: 50px;
   line-height: 60px;
-  font-family: "Raleway", sans-serif;
+  font-family: Helvetica, "Trebuchet MS", sans-serif;
   margin-bottom: 10px;
 }
 
