@@ -276,7 +276,11 @@ td { vertical-align: top; }
   color: white;
 }
 
-
+#dan_tasse_picture {
+  background-image: url("dan_tasse.jpg");
+  width: 300px;
+  height: 200px;
+}
 
 
 
