@@ -39,7 +39,10 @@ body {
   font-size: 1em;
   line-height: 1.4;
   height:100%;
+  background-color: rgba(245,245,245,0.95);
+
 }
+/* Edited here ^^ too - dantasse */
 
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
@@ -230,8 +233,6 @@ td { vertical-align: top; }
   height: 100%;
   margin-left: auto;
   margin-right: auto;
-  background: #CCCCFF;
-  background-color: rgba(245,245,245,0.95);
   font-family: Helvetica, "Trebuchet MS", sans-serif;
   padding: 10px;
 }
