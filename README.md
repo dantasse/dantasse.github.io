@@ -20,3 +20,8 @@ Last time I did this (2017-11-29) the magic words were:
 bundle update
 bundle exec jekyll serve
 ```
+and mid bundle update because something failed, I had to: 
+```
+cd /usr/local/opt/readline/lib    
+ln libreadline.8.dylib libreadline.7.dylib
+```
