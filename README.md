@@ -1,15 +1,6 @@
 dantasse.github.io
 ==================
 
-Well, here is my website. Some props:
-
-- Modernizr
-- Jekyll http://jekyllrb.com/
-- config.yml from Asymmetrical View http://asymmetrical-view.com/2009/05/14/starting-wtih-jekyll.html
-- Bootstrap http://twitter.github.com/bootstrap/
-- http://24ways.org/2012/how-to-make-your-site-look-half-decent/
-- http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/
-
 ## Memo to my future self
 
 To keep this thing going:
@@ -38,8 +29,23 @@ gem install bundler
 bundle update
 bundle exec jekyll serve
 ```
-and mid bundle update because something failed, I had to: 
+
+### Troubleshooting I've done
 ```
 cd /usr/local/opt/readline/lib    
 ln libreadline.8.dylib libreadline.7.dylib
 ```
+
+another time (from [here](https://medium.com/@leoliang.climber/missing-ffi-prep-closure-error-for-ffi-1-13-1-gem-70f800a48090)):
+
+```
+gem install ffi -- --disable-system-libffi
+```
+
+## some resources used here:
+
+  - [this config.yml](http://asymmetrical-view.com/2009/05/14/starting-wtih-jekyll.html)
+  - [Bootstrap](http://twitter.github.com/bootstrap/)
+  - (http://24ways.org/2012/how-to-make-your-site-look-half-decent/)
+  - (http://designshack.net/articles/css/10-great-google-font-combinations-you-can-copy/)
+
