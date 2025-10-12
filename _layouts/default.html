@@ -28,29 +28,12 @@
   
   <!-- HTTPS stuff from https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/ -->
   <link rel="canonical" href=" {{ site.url }}{{ page.url }}" />
-  <script type="text/javascript">
-    var host = "www.dantasse.com";
-    if ((host == window.location.host) && (window.location.protocol != "https:"))
-        ;// derp not yet, wait for DNS records to migrate to cloudflare // window.location.protocol = "https";
-  </script>
   <!-- All JavaScript at the bottom, except this Modernizr build.
        Modernizr enables HTML5 elements & feature detects for optimal performance.
        Create your own custom Modernizr build: www.modernizr.com/download/ -->
   <script src="js/libs/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
-  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
-       chromium.org/developers/how-tos/chrome-frame-getting-started -->
-  <!--[if lt IE 7]>
-    <p class=chromeframe>
-    Hello! I'm guessing that you're using IE6 because you have to. Sorry
-    about that. Perhaps
-    <a href="http://www.google.com/chromeframe/?redirect=true">Chrome Frame</a>
-    would make things easier.
-    If you *don't* have to use Internet Explorer, try <a href="http://www.google.com/chrome">
-    Chrome</a>. I might be biased, but I think it's a pretty good one.
-    </p>
-  <![endif]-->
   <header>
 
   </header>
@@ -62,15 +45,7 @@
         </div>
       </div>
       <div class="row_fluid">
-        <div class="span2 nav">
-          <ul class="nav unstyled">
-            <li><a href="projects.html">Projects</a></li>
-            <!-- <li><a href="other.html">Other</a></li> -->
-            <li><a href="dan_tasse_resume.pdf">Resume</a></li>
-            <li><a href="cv.pdf">CV</a></li>
-          </ul>
-        </div>
-        <div class="span10 content">
+        <div class="span12 content">
           {{ content }}
         </div>
       </div>
